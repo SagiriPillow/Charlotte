@@ -10,4 +10,6 @@ Very simple, just put your program into the application folder and put the libra
 
 
 # 中文完整文档
-我写了一份完整的[中文文档][https://mistyra.in/index.php/archives/python/4.html]。
+我写了一份完整的[中文文档][1]。
+
+  [1][https://mistyra.in/index.php/archives/python/4.html]
