@@ -7,9 +7,3 @@ A simple PythonShell is preset in Charlotte.
 
 # How can I use it?
 Very simple, just put your program into the application folder and put the libraries needed by your program into the module folder.
-
-
-# 中文完整文档
-我写了一份完整的[中文文档][1]。
-
-  [1]: https://mistyra.in/index.php/archives/python/4.html
